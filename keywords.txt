@@ -1,0 +1,12 @@
+# Syntax Coloring Map For GBAMultiBoot
+GBAMultiBoot	KEYWORD1
+Pins	KEYWORD1
+Timing	KEYWORD1
+Options	KEYWORD1
+Result	KEYWORD1
+State	KEYWORD1
+upload	KEYWORD2
+start	KEYWORD2
+update	KEYWORD2
+begin	KEYWORD2
+abort	KEYWORD2
