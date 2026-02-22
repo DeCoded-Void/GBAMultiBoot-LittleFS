@@ -191,7 +191,7 @@ Example (with a single slave):
 [mb] state: done
 ```
 
-If something fails you’ll get a line like:
+If something fails, you’ll get info such as:
 
 ```
 [mb] fail: protocol_mismatch (state header)
@@ -337,6 +337,6 @@ Means that there is an unexpected response.
 - [**Various Contributors** outlined in GBATEK's about section](https://www.problemkaputt.de/gbatek.htm#aboutthisdocument)
 - **Endrift** - [mGBA Emulator](https://github.com/mgba-emu/mgba) Author
 - **Shonumi** - [GBE+ Emulator Author](https://github.com/shonumi/gbe-plus) & [GBA Accessory Blogger](https://shonumi.github.io/)
-- **GreigaMaster** - [Chip Gate Homebrew](https://forums.therockmanexezone.com/battle-chip-gate-homebrew-t16537.html) author (used as the rest ROM for this project)
+- **GreigaMaster** - [Chip Gate Homebrew](https://forums.therockmanexezone.com/battle-chip-gate-homebrew-t16537.html) author (used as the test ROM for this project)
 - **jojolebarjos** - [gba-multiboot repo](https://github.com/jojolebarjos/gba-multiboot) Author - their repo was good reference for me to know if I was on the right track
 - **MegaMan Battle Network!** - [Collector Community Discord](https://discord.gg/Wa98sZza4g) - Inspiration for me to make this since I didn't find a repo that suited my partiular needs
